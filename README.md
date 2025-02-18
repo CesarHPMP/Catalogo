@@ -1,10 +1,10 @@
 # Project Ctalogo
 
-One Paragraph of project description goes here
+Catalogo para display de produtos.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Estas instruções fornecerão uma cópia do projeto em funcionamento em sua máquina local para fins de desenvolvimento e teste.
 
 ## MakeFile
 
