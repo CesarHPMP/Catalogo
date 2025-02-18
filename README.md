@@ -1,4 +1,4 @@
-# Project Ctalogo
+# Project Catalogo
 
 Catalogo para display de produtos.
 
